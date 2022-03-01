@@ -10,7 +10,7 @@
 - 🐬MySQL. 
 
 - 📚KNOWLEDGE
-- 💻Java Programming POO, Programming Logic with JavaScript, Python, C, C++ and C#.
+- 💻Programming Logic with JavaScript, Python, C, C++ and C#.
 
 <div align="center">
   <a href="https://github.com/Xande013">
