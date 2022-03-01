@@ -1,7 +1,10 @@
 ### Hi there 👋
 
--📚 KNOWLEDGE
-- 💻Java Programming, Programming Logic with JavaScript, Python, C, C++ and C#.
+- 🎯SKILLS
+- 💻Java 8 e 11 Programming POO. 
+
+- 📚KNOWLEDGE
+- 💻Java Programming POO, Programming Logic with JavaScript, Python, C, C++ and C#.
 - 📑Creation of UML - Use Case Diagram (Astah).
 - 📄Textual specifications of use cases.
 - 📜Class conceptual model (Astah).
