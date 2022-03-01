@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 - 🎯SKILLS
-- 💻Java 8 e 11 Programming POO. 
-
-- 📚KNOWLEDGE
-- 💻Java Programming POO, Programming Logic with JavaScript, Python, C, C++ and C#.
+- 💻Java 8 e 11 Programming POO.
 - 📑Creation of UML - Use Case Diagram (Astah).
 - 📄Textual specifications of use cases.
 - 📜Class conceptual model (Astah).
 - 📃Conceptual data model (BrModelo).
 - 🐱Git and Github.
-- 🐬MySQL.
+- 🐬MySQL. 
+
+- 📚KNOWLEDGE
+- 💻Java Programming POO, Programming Logic with JavaScript, Python, C, C++ and C#.
 
 <div align="center">
   <a href="https://github.com/Xande013">
